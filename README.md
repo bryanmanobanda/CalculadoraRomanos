@@ -1,8 +1,8 @@
-#Calculadora Romanos🙈💻
+# Calculadora Romanos🙈💻
 
 Calculadora de numeros romanos que realiza operaciones de suma, resta, multiplicación, dividisión, logaritmos, exponencial, seno, coseno, tangente, raíz y potenciación.
 
-##Instalación 🚀
+## Instalación 🚀
 
 Para que el programa corra sin ningun error debes tener instalado lex y yacc.
 En caso de no tenerlo instalarlo corre la siguientes instrucciones en una terminal de ubuntu. Recuerda actualizar los paquetes antes de correr cualquier comando.
@@ -24,7 +24,7 @@ gcc lex.yy.c y.tab.c -lfl -lm
 ```
 En caso de cambiar el nombre al archivo, en las instrucciones cambiar project por el nombre asignado.
 
-###Uso del programa ⌨️
+### Uso del programa ⌨️
 
 Las operaciones empezarqan con "=" seguido de numeros romanos (mayúsculas o minúsculas) o signos de agrupación , seguido de la operación y al final de toda la secuencia debe terminar con punto y coma.
 
@@ -65,7 +65,7 @@ El programa no admite espacios en blanco y tiene un limite de -30000 hasta 30000
 | coseno  | cos(num)  |
 |  tangente | tan(num)  |
 
-###Presentación del programa
+### Presentación del programa
 
 El resultado se presentara en números romanos, binario, decimal, octal y hexadecimal. En caso de que el resultado sea negativo solo mostrara el decimal y cuando presente decimales los valores se presentaran como enteros.
 
@@ -78,7 +78,7 @@ El resultado se presentara en números romanos, binario, decimal, octal y hexade
 
 Este proyecto está bajo la Licencia (MIT License)
 
-###Siguiente Paso 😃
+### Siguiente Paso 😃
 
 * Comenta a otros sobre este proyecto 📢
 * Sigueme y no te olvides de compartir mi perfil 💜
